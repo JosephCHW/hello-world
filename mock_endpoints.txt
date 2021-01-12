@@ -14,3 +14,4 @@ endpoints.crow=http://localhost:cmb-crow-%ENDPOINT%-hello-world/v4/birds/
 endpoints.song-thrush=http://localhost:cmb-song-thrush-%ENDPOINT%-hello-world/v4/birds/
 endpoints.gull=http://localhost:cmb-gull-%ENDPOINT%-hello-world/v4/birds/
 endpoints.mute-swan=http://localhost:cmb-mute-swan-%ENDPOINT%-hello-world/v4/birds/
+endpoints.robin=http://localhost:cmb-robin-%ENDPOINT%-hello-world/v4/birds/
