@@ -1,0 +1,13 @@
+endpoints.goose=http://localhost:cmb-goose-%ENDPOINT%-hello-world/v1/applications/
+endpoints.hello=http://localhost:cmb-hello-%ENDPOINT%-hello-world/v1/applications/
+endpoints.jabba=http://localhost:cmb-jabba-%ENDPOINT%-hello-world/v2/applications/
+endpoints.salacious=http://localhost:cmb-salacious-%ENDPOINT%-hello-world/v1/applications/
+endpoints.oscar=http://localhost:cmb-oscar-%ENDPOINT%-hello-world/v1/applications/
+endpoints.rupert=http://localhost:cmb-rupert-%ENDPOINT%-hello-world/v1/applications/
+endpoints.millie=http://localhost:cmb-millie-%ENDPOINT%-hello-world/v2/applications/
+endpoints.maddie=http://localhost:cmb-maddie-%ENDPOINT%-hello-world/v3/applications/
+endpoints.joseph=http://localhost:cmb-joseph-%ENDPOINT%-hello-world/v1/applications/
+endpoints.kingfisher=http://localhost:cmb-kingfisher-%ENDPOINT%-hello-world/v1/applications/
+endpoints.blackbird=http://localhost:cmb-blackbird-%ENDPOINT%-hello-world/v1/applications/
+endpoints.tree=http://localhost:cmb-tree-%ENDPOINT%-hello-world/v2/applications/
+endpoints.lily=http://localhost:cmb-lily-%ENDPOINT%-hello-world/v4/applications/
