@@ -3,6 +3,6 @@ endpoints.ash=http://localhost:cmb-ash-%ENDPOINT%-hello-world/v1/trees/
 endpoints.lime=http://localhost:cmb-lime-%ENDPOINT%-hello-world/v2/trees/
 endpoints.elm=http://localhost:cmb-elm-%ENDPOINT%-hello-world/v1/trees/
 endpoints.elder=http://localhost:cmb-elder-%ENDPOINT%-hello-world/v1/trees/
-endpoints.hawthorn=http://localhost:cmb-hawthorn-%ENDPOINT%-hello-world/v1/trees/
+endpoints.cherry=http://localhost:cmb-hawthorn-%ENDPOINT%-hello-world/v1/trees/
 endpoints.horse-chestnut=http://localhost:cmb-horse-chestnut-%ENDPOINT%-hello-world/v2/trees/
 endpoints.lilac=http://localhost:cmb-lilac-%ENDPOINT%-hello-world/v3/trees/
