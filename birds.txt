@@ -10,4 +10,4 @@ endpoints.long-tailed-tit=http://localhost:cmb-long-tailed-tit-%ENDPOINT%-hello-
 endpoints.kingfisher=http://localhost:cmb-kingfisher-%ENDPOINT%-hello-world/v1/birds/
 endpoints.blackbird=http://localhost:cmb-blackbird-%ENDPOINT%-hello-world/v1/birds/
 endpoints.jackdaw=http://localhost:cmb-jackdaw-%ENDPOINT%-hello-world/v2/birds/
-endpoints.starling=http://localhost:cmb-starling-%ENDPOINT%-hello-world/v4/birds/
+endpoints.goldfinch=http://localhost:cmb-goldfinch-%ENDPOINT%-hello-world/v4/birds/
