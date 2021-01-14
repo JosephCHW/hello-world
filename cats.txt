@@ -1,5 +1,5 @@
-endpoints.oscar=http://localhost:cmb-oscar-%ENDPOINT%-hello-world/v1/trees/
-endpoints.lily=http://localhost:cmb-lily-%ENDPOINT%-hello-world/v1/trees/
-endpoints.charlie=http://localhost:cmb-charlie-%ENDPOINT%-hello-world/v2/trees/
-endpoints.tendou=http://localhost:cmb-tendou-%ENDPOINT%-hello-world/v1/trees/
-endpoints.grey-cat=http://localhost:cmb-grey-cat-%ENDPOINT%-hello-world/v1/trees/
+endpoints.oscar=http://localhost:cmb-oscar-%ENDPOINT%-hello-world/v1/cats/
+endpoints.lily=http://localhost:cmb-lily-%ENDPOINT%-hello-world/v1/cats/
+endpoints.charlie=http://localhost:cmb-charlie-%ENDPOINT%-hello-world/v2/cats/
+endpoints.tendou=http://localhost:cmb-tendou-%ENDPOINT%-hello-world/v1/cats/
+endpoints.grey-cat=http://localhost:cmb-grey-cat-%ENDPOINT%-hello-world/v1/cats/
